@@ -2,8 +2,8 @@
 
 I'm a **Full-Stack Developer** with a passion for building web and mobile applications.  
 
-<img src="https://pfst.cf2.poecdn.net/base/image/4c60e65a2494b42cb666b30e852c25d88aa4878b244886340764fb7c24b57a3f?w=1024&h=768&pmaid=302373234" 
-  alt="Animated AI Girl Coder" width="400" align="right" style="margin-left: 20px;"/>  
+<img src="https://pfst.cf2.poecdn.net/base/image/1a926a6f58423ff1ac35f20b892ca0c379e1e5550067b785b38fc1d536dbbe6b?w=1024&h=768&pmaid=302402381" 
+  alt="Animated AI Girl Coder" width="400" align="right" style="margin-left: 20px;"/>
 
 ### Languages  
 - ![Java](https://img.icons8.com/color/80/000000/java-coffee-cup-logo.png) Java  
