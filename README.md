@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi there, I'm Elshaday Negus</h1>
-<h3 align="center">"I'm a Full-Stack Developer skilled in building scalable web and mobile applications. I enjoy turning complex problems into elegant solutions using Java, Spring Boot, React Native, and MySQL. I love clean code, efficient architecture, and bringing ideas to life with well-designed UI/UX."</h3>
+<h4 align="center">"I'm a Full-Stack Developer skilled in building scalable web and mobile applications. I enjoy turning complex problems into elegant solutions using Java, Spring Boot, React Native, and MySQL. I love clean code, efficient architecture, and bringing ideas to life with well-designed UI/UX."</h4>
 
 <details>
 <summary>💡 A developer joke for the road...</summary>
