@@ -1,32 +1,59 @@
-# 👋 Hi, I’m Elshaday Negus  
+<h1 align="center">👋 Hi there, I'm Elshaday Negus</h1>
+<h3 align="center">A passionate Full-Stack Developer crafting powerful web and mobile experiences.</h3>
 
-I'm a **Full-Stack Developer** with a passion for building web and mobile applications.  
+<p align="center">
+  <img src="https://pfst.cf2.poecdn.net/base/image/1a926a6f58423ff1ac35f20b892ca0c379e1e5550067b785b38fc1d536dbbe6b?w=1024&h=768&pmaid=302402381" alt="AI Girl Coder" width="400"/>
+</p>
 
-<img src="https://pfst.cf2.poecdn.net/base/image/1a926a6f58423ff1ac35f20b892ca0c379e1e5550067b785b38fc1d536dbbe6b?w=1024&h=768&pmaid=302402381" 
-  alt="Animated AI Girl Coder" width="400" align="right" style="margin-left: 20px;"/>
+---
 
-### Languages  
-- ![Java](https://img.icons8.com/color/80/000000/java-coffee-cup-logo.png) Java  
-- ![PHP](https://img.icons8.com/color/80/000000/php.png) PHP  
-- ![JavaScript](https://img.icons8.com/color/80/000000/javascript.png) JavaScript  
-- ![HTML](https://img.icons8.com/color/80/000000/html-5.png) HTML  
-- ![CSS](https://img.icons8.com/color/80/000000/css3.png) CSS  
+### 🚀 Tech Stack
 
-### Frameworks  
-- ![React Native](https://img.icons8.com/color/80/000000/react-native.png) React Native  
-- ![Spring Boot](https://img.icons8.com/color/80/000000/spring-logo.png) Spring Boot  
+**Languages**  
+<p>
+  <img src="https://img.icons8.com/color/48/java-coffee-cup-logo.png" alt="Java"/>
+  <img src="https://img.icons8.com/color/48/php.png" alt="PHP"/>
+  <img src="https://img.icons8.com/color/48/javascript.png" alt="JavaScript"/>
+  <img src="https://img.icons8.com/color/48/html-5.png" alt="HTML"/>
+  <img src="https://img.icons8.com/color/48/css3.png" alt="CSS"/>
+</p>
 
-### Databases  
-- ![MySQL](https://img.icons8.com/color/80/000000/mysql-logo.png) MySQL  
+**Frameworks & Tools**  
+<p>
+  <img src="https://img.icons8.com/color/48/react-native.png" alt="React Native"/>
+  <img src="https://img.icons8.com/color/48/spring-logo.png" alt="Spring Boot"/>
+</p>
 
-## 🌟 Projects  
+**Database**  
+<p>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
+</p>
 
-Here are some of the notable projects I've worked on:  
+---
 
-1. **[Ratatoulli](#)**  
-   The Recipe Sharing App aims to have a vibrant food community by allowing users to share their favorite recipes, engage through likes and comments, and follow chefs and friends. With a robust search feature, users can easily discover new dishes tailored to their interests, creating an interactive platform that enhances culinary creativity and connection.  
+### 🌟 Featured Project
 
-## 🚀 Get In Touch  
+**🔹 Ratatoulli — Recipe Sharing App**  
+An engaging social platform for food lovers to share recipes, interact via comments & likes, follow chefs, and explore a variety of cuisines with powerful search features.  
+> _“A place where culinary passion meets social interaction.”_
 
-- Email: [neguselshaday8@gmail.com](mailto:neguselshaday8@gmail.com)  
-- LinkedIn: [https://www.linkedin.com/in/elshaday-negus-ba6901210/](https://www.linkedin.com/in/elshaday-negus-ba6901210/)  
+---
+
+### 📬 Let’s Connect
+
+- 📧 Email: [neguselshaday8@gmail.com](mailto:neguselshaday8@gmail.com)  
+- 💼 LinkedIn: [linkedin.com/in/elshaday-negus-ba6901210](https://www.linkedin.com/in/elshaday-negus-ba6901210)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ElshadayNegus&show_icons=true&theme=react&count_private=true&hide=stars" alt="GitHub Stats" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElshadayNegus&layout=compact&theme=react" alt="Top Languages" height="150"/>
+</p>
+
+---
+
+<!-- Optionally add GitHub trophies or activity graph here -->
+
