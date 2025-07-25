@@ -1,9 +1,13 @@
 <h1 align="center">👋 Hi there, I'm Elshaday Negus</h1>
-<h3 align="center">A passionate Full-Stack Developer crafting powerful web and mobile experiences.</h3>
+<h3 align="center">"I'm a Full-Stack Developer skilled in building scalable web and mobile applications. I enjoy turning complex problems into elegant solutions using Java, Spring Boot, React Native, and MySQL. I love clean code, efficient architecture, and bringing ideas to life with well-designed UI/UX."</h3>
 
-<p align="center">
-  <img src="https://pfst.cf2.poecdn.net/base/image/1a926a6f58423ff1ac35f20b892ca0c379e1e5550067b785b38fc1d536dbbe6b?w=1024&h=768&pmaid=302402381" alt="AI Girl Coder" width="400"/>
-</p>
+<details>
+<summary>💡 A developer joke for the road...</summary>
+
+> “Why do programmers prefer dark mode?  
+> Because light attracts bugs.”
+
+</details>
 
 ---
 
