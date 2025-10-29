@@ -52,8 +52,7 @@ An engaging social platform for food lovers to share recipes, interact via comme
 
 ### 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=elshuNg&show_icons=true&theme=react&count_private=true&hide=stars" alt="GitHub Stats" height="150"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elshuNg&layout=compact&theme=react" alt="Top Languages" height="150"/>
 </p>
 
