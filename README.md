@@ -45,7 +45,7 @@ An engaging social platform for food lovers to share recipes, interact via comme
 
 ### 📬 Let’s Connect
 
-- 📧 Email: [neguselshaday8@gmail.com](mailto:neguselshaday8@gmail.com)  
+- 📧 Email: [elshadaynegus01@gmail.com](mailto:elshadaynegus01@gmail.com)  
 - 💼 LinkedIn: [linkedin.com/in/elshaday-negus-ba6901210](https://www.linkedin.com/in/elshaday-negus-ba6901210)
 
 ---
